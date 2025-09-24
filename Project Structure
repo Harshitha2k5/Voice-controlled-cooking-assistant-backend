@@ -1,0 +1,13 @@
+voice-cooking-assistant/
+│
+├─ app/                 # backend source code
+│   ├─ __init__.py
+│   └─ main.py          # FastAPI starter code
+│
+├─ tests/               # unit & integration tests
+│   └─ test_sample.py
+│
+├─ requirements.txt     # Python dependencies
+├─ README.md            # project description & instructions
+├─ .gitignore           # files/folders to ignore in Git
+└─ .env.example         # optional: template for environment variables
